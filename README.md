@@ -16,12 +16,20 @@ Moving beyond basic colors to understand how the browser renders and positions e
 * **Positioning Logic:** Practical application of `static`, `relative`, `absolute`, and `fixed` positioning to control UI flow.
 * **Selector Combinations:** Advanced targeting of elements using descendant, child, and adjacent sibling selectors to keep CSS "DRY" (Don't Repeat Yourself).
 
-### 3. Progress Tracking
+### 3. Layout Engineering & Responsiveness
+Moving from static documents to dynamic, screen-aware interfaces.
+* **Legacy Layouts (Floats):** Understanding how to clear floats and use them for wrapping content—a necessary skill for maintaining older codebases.
+* **Flexbox Mastery:** Implementing 1D layouts using `justify-content`, `align-items`, and `flex-direction` to build modern, fluid UI components.
+* **Media Queries:** The core of Responsive Design. Utilizing breakpoints to ensure layouts adapt seamlessly from mobile devices to desktop monitors.
+
+### 4. Progress Tracking
 - [x] HTML5 Semantics & Attributes
 - [x] CSS Foundations & Box Model
 - [x] Advanced Selectors & Positioning
-- [ ] Responsive Design (Next Up)
-- [ ] Flexbox & Grid Mastery (Upcoming)
+- [x] Modern Layouts (Flexbox & Floats)
+- [x] Responsive Web Design (Media Queries)
+- [ ] CSS Grid Mastery (Upcoming)
+- [ ] JavaScript Fundamentals (Starting Soon!)
 
 ---
-*Building towards the **PERN Stack** to develop scalable web applications.*
+*Next Goal: Building a fully responsive Landing Page using the PERN stack mindset.*
