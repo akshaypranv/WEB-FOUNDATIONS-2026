@@ -1,0 +1,1 @@
+**Objective:** Deep dive into legacy layout techniques and text-wrapping logic. This folder demonstrates the use of the float property for multi-column layouts and the critical implementation of clear and "clearfix" hacks to maintain container integrity.
