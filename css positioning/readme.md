@@ -1,0 +1,1 @@
+**Objective:** Gained absolute control over element placement. Practiced the implementation of static, relative, absolute, and fixed positioning, specifically focusing on how child elements interact with positioned parents and the logic of the z-index stack.
