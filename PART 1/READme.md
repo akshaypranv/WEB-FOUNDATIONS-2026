@@ -1,1 +1,1 @@
-# this is to practice on how the different css selectors work and how to use them by creating an external file "style.css" and link them to html
+**Objective:** Implementation of advanced CSS targeting logic through external stylesheets. This module focuses on mastering the relationship between HTML structure and CSS selectors (descendant, child, and sibling) to build clean, maintainable, and "DRY" code architectures without over-relying on inline styling.
