@@ -1,0 +1,1 @@
+**Objective:**Advanced targeting for clean, scalable CSS. Mastered the use of descendant ( ), child (>), adjacent sibling (+), and general sibling (~) selectors. This module focuses on writing "DRY" code by targeting specific elements without over-relying on extra classes.
