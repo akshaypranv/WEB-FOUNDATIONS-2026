@@ -1,0 +1,1 @@
+**Objective:** Transitioned into 2D layout engineering by recreating a chessboard using CSS Grid. This module focuses on defining explicit grid structures and utilizing fractional units (fr) for perfect geometric alignment.
