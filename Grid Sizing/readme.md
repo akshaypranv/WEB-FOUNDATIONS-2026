@@ -1,0 +1,1 @@
+**Objective:** A deep dive into the algorithmic side of CSS Grid. This module explores how to create flexible, production-ready layouts that intelligently adapt to content and screen real estate without over-relying on fixed pixel values.
