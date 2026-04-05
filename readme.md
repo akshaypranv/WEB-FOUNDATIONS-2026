@@ -1,1 +1,0 @@
-**Objective:** Implementation of advanced CSS targeting logic through external stylesheets. This module focuses on mastering the relationship between HTML structure and CSS selectors (descendant, child, and sibling) to build clean, maintainable, and "DRY" code architectures without over-relying on inline styling.
