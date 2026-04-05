@@ -28,7 +28,7 @@ Moving from static documents to dynamic, screen-aware interfaces.
 - [x] Advanced Selectors & Positioning
 - [x] Modern Layouts (Flexbox & Floats)
 - [x] Responsive Web Design (Media Queries)
-- [ ] CSS Grid Mastery (Upcoming)
+- [x] CSS Grid Mastery 
 - [ ] JavaScript Fundamentals (Starting Soon!)
 
 ---
