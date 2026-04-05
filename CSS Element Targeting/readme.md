@@ -1,0 +1,1 @@
+**Objective:** Gained absolute control over inherited properties and selector specificity. Practiced the implementation of precise parent-child targeting and sibling logic to maintain a clean, "DRY" (Don't Repeat Yourself) codebase while ensuring scalable UI architectures.
