@@ -29,7 +29,7 @@ Moving from static documents to dynamic, screen-aware interfaces.
 - [x] Modern Layouts (Flexbox & Floats)
 - [x] Responsive Web Design (Media Queries)
 - [x] CSS Grid Mastery 
-- [ ] JavaScript Fundamentals (Starting Soon!)
+- [] Bootstrap Mastery
 
 ---
 *Next Goal: Building a fully responsive Landing Page using the PERN stack mindset.*
