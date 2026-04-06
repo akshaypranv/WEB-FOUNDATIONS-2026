@@ -1,0 +1,1 @@
+**Objective:** Gained absolute control over framework-driven site architecture. Practiced the implementation of standardized spacing, typography scaling, and component alignment to build a production-ready marketing site with consistent cross-device UI integrity.
